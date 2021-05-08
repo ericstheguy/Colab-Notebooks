@@ -1,2 +1,2 @@
 # Stylegan2-ADA-Colab
-Google Collaboratory simplified port of Stylegan2-Latent-Space.
+Google Colaboratory simplified port of Stylegan2-Latent-Space.
