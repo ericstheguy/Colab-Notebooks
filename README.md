@@ -1,2 +1,2 @@
-# Stylegan2-ADA-Colab
-Google Colaboratory simplified port of Stylegan2-Latent-Space.
+# Random Colab Notebooks
+Voice Cloning App in Google-Colaboratory. (Tacotron2 Speech Training and Waveglow / Hifi-Gan Speech Synthesis.)
